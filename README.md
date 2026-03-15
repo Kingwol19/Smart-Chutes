@@ -88,3 +88,4 @@ MINIMUM pulse with: 500us
 MAXIMUM pulse with: 2500us
 
 MAXIMUM number of servos: 16 (this is the number of PWM channels in the ESP32)  
+Built with Railtracks
